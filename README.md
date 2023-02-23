@@ -1,27 +1,9 @@
-# app
+# Demo:
 
-TODO: Write a description here
+Demo : how to use baked_file_system to serve archived files to a server
 
-## Installation
+# Application:
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/app/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
+Useful for embedding a server along its resources files in a application written in Crystal-lang
 
 - [serge](https://github.com/your-github-user) - creator and maintainer
